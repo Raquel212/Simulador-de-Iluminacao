@@ -12,9 +12,14 @@ O projeto foi desenvolvido para apresentar no Circuito Tecnológico da UNIT. Ele
     - Tradicional (sempre ligados)
     - Inteligente (liga/desliga alternado)
     - Sensor (acendem ao detectar veículos)
-- **Alertas e Notificações**: Lembretes automáticos para horários de medicação, alertas sobre o estoque está acabando. 
-- **Relatórios**: Geração de relatórios sobre consumo de medicamentos para controle e análise.
-- **Controle de Estoques**: Visualização e gerenciamento de estoques para evitar excessos ou faltas.
+- **🌦 Controle de Clima**:
+    - Alterna entre clima limpo e chuvoso, afetando o consumo.
+- **🚗 Simulação de Veículos**:
+    - Carros com cores e velocidades variadas, simulando o tráfego urbano.
+- **💡 Postes de Iluminação Dinâmicos**:
+    - Mudam de estado conforme o modo de iluminação escolhido.
+- **⚡ Medição de Consumo de Energia**:
+    - Exibição visual do consumo total conforme os modos e o clima.
   
 ---
 

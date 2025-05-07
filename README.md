@@ -18,10 +18,10 @@ O projeto foi desenvolvido para apresentar no Circuito Tecnológico da UNIT. Ele
   
 ---
 
-## ** 🛠 Tecnologias Utilizadas**
+## **🛠 Tecnologias Utilizadas**
 
 - **HTML**
 - **CSS**
-- **JavaScript:**  
+- **JavaScript**  
 
 

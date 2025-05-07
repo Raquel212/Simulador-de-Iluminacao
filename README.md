@@ -32,7 +32,7 @@ O projeto foi desenvolvido para apresentar no Circuito Tecnológico da UNIT. Ele
 ---
 ## **Vídeo da Simulação**
 
-- https://github.com/user-attachments/assets/deae3a97-9469-4cd5-b414-7b7c332ae020
+https://github.com/user-attachments/assets/deae3a97-9469-4cd5-b414-7b7c332ae020
 
 
 

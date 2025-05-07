@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Simulação de Iluminação Urbana</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="container">
+      <div class="title">Simulação de Iluminação Urbana</div>
+
+      <canvas id="canvas" width="800" height="500"></canvas>
+
+      <button id="toggleModo">Modo: Tradicional</button>
+      <button id="toggleClima">Clima: Limpo</button>
+
+      <div class="info">
+        <div><strong>Contagem de Carros:</strong> <span id="carCount">0</span></div>
+        <div><strong>Velocidade Média:</strong> <span id="avgSpeed">0 km/h</span></div>
+        <div><strong>Consumo de Energia:</strong> <span id="energyUsage">0 kWh</span></div>
+        <div><strong>Hora Atual:</strong> <span id="clock">--:--:--</span></div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
